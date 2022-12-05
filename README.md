@@ -9,7 +9,6 @@ cp .env.sample .env npm run build
 Running Sig for EIP712 signature with token ERC20
 $ npm run start:erc
 
-
 # ERC721  
 // .env -> completed PRIVATE_KEY_USER account ethereum-wallet (Metamask)  
 
@@ -25,4 +24,3 @@ $ yarn deploy:nft
 
 ## Start server node  
 $ yarn start:dev  
-
